@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a biologist studying how the evolution of regulatory networks shapes vertebrate morphology using both model and non-model species. This work integrates phylogeny, ecology, genomics, genetics, and developmental biology.
+
 <!--
 **crinfante/crinfante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
